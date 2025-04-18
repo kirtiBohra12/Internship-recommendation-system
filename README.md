@@ -3,6 +3,10 @@
 
 A smart web app that helps users discover relevant internships based on their skills or preferred job roles — powered by real-time data from [RemoteOK](https://remoteok.com).
 
+## Open the application in browser
+
+https://internship-recommendation-system.onrender.com/
+
 ## 📌 Features
 
 - 🔍 **Search by Skills or Job Role**  
